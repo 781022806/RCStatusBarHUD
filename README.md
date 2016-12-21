@@ -5,11 +5,6 @@
 [RCStatusBarHUD showSuccessWithMsg:@"加载成功"];
 ```
 
-## 显示成功信息
-```objc
-[RCStatusBarHUD showSuccessWithMsg:@"加载成功"];
-```
-
 ## 显示失败信息
 ```objc
 [RCStatusBarHUD showErrorWithMsg:@"加载失败"];
