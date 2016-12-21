@@ -17,7 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"修复了一些bug");
+    
 }
 
 
